@@ -1,6 +1,5 @@
 # Wack-A-Bok
-AR game
-Developed by: Vithuran Sadagopan &  Mathuran Sadagopan 
+AR game 
 
 
 An interactive game which creates an AR wack-A-mole table and instead of mole you get to wack chickens!
