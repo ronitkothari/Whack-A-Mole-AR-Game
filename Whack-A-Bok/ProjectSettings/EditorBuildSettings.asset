@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: ba2b537bcccf55c48a4024d278b9ef8c
+  - enabled: 0
+    path: Assets/Scenes/GameView.unity
+    guid: d63587578a312034198f8a76e7e5a2b6
+  - enabled: 1
+    path: Assets/Scenes/ARGameView.unity
+    guid: e0f4f55972acaa0488d9bc0b5b6642ea
+  - enabled: 0
+    path: Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
+    guid: e6a6fa04348cb45c9b0221eb19c946da
+  m_configObjects: {}
